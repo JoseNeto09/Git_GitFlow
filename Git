@@ -1,2 +1,11 @@
-Git
-gitHub
+
+
+
+Para iniciarmos no git e github, temos que instalar o git na sua máquina localmente temos que baixar o git no site.
+
+https://git-scm.com/downloads
+
+Tem versões  para os sistemas operacionais windows, linux e mac.
+
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulanodetal@exemplo.br
